@@ -1,4 +1,5 @@
-## CountMerger
+# CountMerger
+This game is prepared for Sharif game jam!
 
-# Test
-Play game [here](https://behnamjef.github.io/CountMergerWebGL/)
+## Test
+Test the game [here](https://behnamjef.github.io/CountMergerWebGL/)
